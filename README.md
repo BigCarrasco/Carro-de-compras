@@ -13,6 +13,12 @@ node v: 18.10.0
 # what's see
 
 - how to create components.
-- arrow functions.
-- How to adding inline styles.
-- adding images
+- how to implement arrow functions.
+- How to add inline styles.
+- How to add images.
+- how to import components.
+- Use of State and setState.
+- Use of conditionals.
+- Mapping elements.
+
+![image](https://user-images.githubusercontent.com/105386105/212759285-a941b262-395f-42e0-8987-397827a9e2ec.png)
