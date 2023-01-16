@@ -1,4 +1,4 @@
-# Getting Started with Shoping Cart with React
+# Getting Started with Shoping Cart with React "Class components"
 
 React 18.2.0
 npm version: 8.19.2
